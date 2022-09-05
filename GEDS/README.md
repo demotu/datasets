@@ -10,4 +10,4 @@ In total, there are data of 9,661 gait strides. It’s also provided files with 
 
 ## How to cite this work
 > Miraldo DC, Watanabe RN, Duarte M (2020) An open dataset of inertial, magnetic, foot-ground contact, and electromyographic signals from wearable sensors
-during walking. Motor Control. https://doi.org/10.1123/mc.2020-0023.
+during walking. Motor Control. https://doi.org/10.1123/mc.2020-0023. [PDF](./mc20.pdf).
